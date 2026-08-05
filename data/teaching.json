@@ -1,5 +1,11 @@
 [
   {
+    "code": "CS 4301",
+    "title": "Mobile and Wearable Computing",
+    "institution": "UT Dallas",
+    "terms": ["FA'26"]
+  },
+  {
     "code": "CMPEN/EE 362",
     "title": "Communication Networks",
     "institution": "Penn State",

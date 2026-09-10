@@ -11,6 +11,7 @@
     "year": 2020,
     "topics": ["Machine Learning", "Health Informatics"],
     "paper": "https://doi.org/10.18100/ijamec.792863",
+    "bibtex": "bib/ckd-ml-2020.txt",
     "abstract": "Chronic Kidney Disease (CKD) is a global health threat characterized by the gradual loss of kidney function over time. Early detection is paramount for effective treatment and clinical intervention. In this study, we perform a comparative analysis of various decision tree algorithms (Simple, Medium, and Complex Trees) alongside ensemble learning models (Boosted, Bagged, and RUSBoosted Trees) to evaluate their efficacy in chronic kidney disease diagnosis. Using empirical evaluation in MATLAB, the Bagged ensemble model demonstrated superior predictive classification accuracy, while simple decision trees showed optimal training latency. The findings demonstrate the utility of ensemble learning architectures for robust clinical predictive diagnostics."
   }
 ]

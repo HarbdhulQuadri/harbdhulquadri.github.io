@@ -1,0 +1,10 @@
+@article{adegbiji2020comparison,
+  title={Comparison analysis of decision tree and ensemble models in the classification of chronic kidney diseases},
+  author={Adegbiji, Abdulquadri and Olasunkanmi, Olawumi and Olanloye, Odunayo},
+  journal={International Journal of Applied Mathematics, Electronics and Computers},
+  volume={8},
+  number={3},
+  pages={56--61},
+  year={2020},
+  doi={10.18100/ijamec.792863}
+}

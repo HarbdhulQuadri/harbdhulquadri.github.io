@@ -1,22 +1,11 @@
 {
-  "program_committee": [
-    "MobiCom'24 S3 Workshop",
-    "MobiCom'24 Artifact Evaluation",
-    "MobiSys'24 Artifact Evaluation"
+  "mentorship_and_instruction": [
+    "Technical Mentor & Educator — Guided 500+ junior software engineers in distributed systems & backend architecture (2021–Present)",
+    "Data Science Instructor — Notzero Technologies (2021–Present)"
   ],
-  "reviewer": [
-    "IMWUT/Ubicomp, 2022–2026",
-    "IEEE Transactions on Mobile Computing, 2024–2026",
-    "ACM Transactions on Sensor Networks, 2024",
-    "CHI, 2026",
-    "ICML, 2026",
-    "ICLR, 2024–2026",
-    "NeurIPS, 2026",
-    "AAAI, 2026",
-    "npj Nature Digital Medicine, 2026"
-  ],
-  "volunteer": [
-    "MobiCom 2024",
-    "MobiQuitous 2022"
+  "community_and_open_source": [
+    "Author & Maintainer — create-quadstack CLI (NPM Registry)",
+    "Contributor — Cloud-native architectures & AI-assisted development tools",
+    "Code Reviewer & Architectural Advisor — Best practices in software reliability & database normalization"
   ]
 }

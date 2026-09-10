@@ -1,20 +1,22 @@
 [
   {
-    "title": "Outstanding Teaching Assistant",
-    "subtitle": "Penn State",
-    "year": 2022,
-    "image": "misc/best_ta.png"
+    "title": "GitHub Developer Program Member",
+    "subtitle": "GitHub",
+    "year": 2024
   },
   {
-    "title": "Alumni Association Dissertation Award",
-    "subtitle": "Penn State",
-    "year": 2025,
-    "image": "misc/thesis_award.png"
+    "title": "Arctic Code Vault Contributor",
+    "subtitle": "GitHub Archive Program",
+    "year": 2020
   },
   {
-    "title": "A1 Patent Inventor",
-    "subtitle": "Samsung Research America",
-    "year": 2025,
-    "image": "misc/a1.png"
+    "title": "Master of Science in Computer Science",
+    "subtitle": "University of Lagos, Nigeria",
+    "year": 2024
+  },
+  {
+    "title": "Bachelor of Science in Computer Science Education",
+    "subtitle": "Ekiti State University, Nigeria",
+    "year": 2018
   }
 ]

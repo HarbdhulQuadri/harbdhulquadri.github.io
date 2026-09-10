@@ -1,19 +1,30 @@
 [
-  { "date": "2026-08", "text": "Happy to see our work featured in the Samsung Newsroom!", "link": { "label": "News", "url": "https://news.samsung.com/global/from-biosignals-to-health-insights-samsung-researchs-work-on-health-foundation-models" } },
-  { "date": "2026-05", "text": "I will join UT Dallas CS as a tenure-track assistant professor in August 2026!" },
-  { "date": "2026-05", "text": "I defended on May 4th, and now I am officially Dr. Zhou!" },
-  { "date": "2026-04", "text": "xMAE accepted to ICML'26!" },
-  { "date": "2026-03", "text": "Thanks UW-Madison CS for hosting me for a visit!" },
-  { "date": "2026-03", "text": "Thanks UT Dallas CS for hosting me for a visit!" },
-  { "date": "2026-01", "text": "Pressure2Muscle accepted to MobiCom'26!" },
-  { "date": "2026-01", "text": "HiMAE (co-authored) accepted to ICLR'26!" },
-  { "date": "2026-01", "text": "MemoryAids and other co-authored papers accepted to ICASSP'26." },
-  { "date": "2025-11", "text": "Invited to give a guest lecture for PSU EE 497 — wearable technology research." },
-  { "date": "2025-10", "text": "Wearable foundation model work (w/ Samsung) accepted to NeurIPS TS4H, submitted to ICLR 2026." },
-  { "date": "2025-05", "text": "Thesis accepted to MobiSys'25 Rising Star." },
-  { "date": "2025-03", "text": "Recipient of Penn State's Alumni Association Dissertation Award (only recipient from School of EECS).", "bold": "Alumni Association Dissertation Award", "link": { "label": "News", "url": "https://www.psu.edu/news/fox-graduate-school/story/forty-two-graduate-students-recognized-university-awards" } },
-  { "date": "2024-10", "text": "Received Student Travel Grant from MobiCom'24." },
-  { "date": "2023-11", "text": "Received Penn State International Travel Grant." },
-  { "date": "2023-05", "text": "OmniRing won Best Paper Award for Edge IoT.", "bold": "Best Paper Award for Edge IoT" },
-  { "date": "2022-09", "text": "Received an Outstanding TA Award!" }
+  {
+    "date": "2024",
+    "text": "Completed Master of Science (M.Sc.) in Computer Science at the University of Lagos."
+  },
+  {
+    "date": "2024",
+    "text": "Released create-quadstack on NPM — an open-source CLI tool for scaffolding scalable cloud-native backend environments.",
+    "link": {
+      "label": "NPM Package",
+      "url": "https://www.npmjs.com/package/create-quadstack"
+    }
+  },
+  {
+    "date": "2023",
+    "text": "Engineered real-time data ingestion pipelines for QuantCore.ai, utilizing WebSockets and Redis to minimize latency for financial analytics streams."
+  },
+  {
+    "date": "2022",
+    "text": "Surpassed 500+ mentored software engineers and learners, conducting structured code reviews and training modules on distributed systems and API design."
+  },
+  {
+    "date": "2020",
+    "text": "Co-authored research on ensemble models for chronic kidney disease classification published in IJAMEC.",
+    "link": {
+      "label": "Paper (DOI)",
+      "url": "https://doi.org/10.18100/ijamec.792863"
+    }
+  }
 ]

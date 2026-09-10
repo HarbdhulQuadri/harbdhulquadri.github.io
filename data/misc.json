@@ -1,5 +1,15 @@
 [
   {
+    "title": "Master of Science in Computer Science (In View)",
+    "subtitle": "University of Lagos, Nigeria · Focus: Distributed AI & Healthcare",
+    "year": "2024 – Present"
+  },
+  {
+    "title": "Bachelor of Science in Computer Science",
+    "subtitle": "Ekiti State University, Nigeria",
+    "year": "2015 – 2020"
+  },
+  {
     "title": "GitHub Developer Program Member",
     "subtitle": "GitHub",
     "year": 2024
@@ -8,15 +18,5 @@
     "title": "Arctic Code Vault Contributor",
     "subtitle": "GitHub Archive Program",
     "year": 2020
-  },
-  {
-    "title": "Master of Science in Computer Science",
-    "subtitle": "University of Lagos, Nigeria",
-    "year": 2024
-  },
-  {
-    "title": "Bachelor of Science in Computer Science Education",
-    "subtitle": "Ekiti State University, Nigeria",
-    "year": 2018
   }
 ]

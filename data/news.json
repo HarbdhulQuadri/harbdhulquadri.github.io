@@ -1,11 +1,15 @@
 [
   {
-    "date": "2024",
-    "text": "Completed Master of Science (M.Sc.) in Computer Science at the University of Lagos."
+    "date": "2026",
+    "text": "Advancing M.Sc. thesis research on Dual-Teacher Adaptive Agreement (DTAA) for Federated Semi-Supervised Learning (FSSL) in Abdominal Trauma CT Segmentation at University of Lagos."
+  },
+  {
+    "date": "2026",
+    "text": "Completed and presented M.Sc. seminar research on 'Federated Learning in Healthcare: Privacy-Preserving Collaborative Machine Learning Across Clinical Silos'."
   },
   {
     "date": "2024",
-    "text": "Released create-quadstack on NPM — an open-source CLI tool for scaffolding scalable cloud-native backend environments.",
+    "text": "Released create-quadstack on NPM — open-source CLI tool for scaffolding cloud-native backend environments.",
     "link": {
       "label": "NPM Package",
       "url": "https://www.npmjs.com/package/create-quadstack"
@@ -13,15 +17,15 @@
   },
   {
     "date": "2023",
-    "text": "Engineered real-time data ingestion pipelines for QuantCore.ai, utilizing WebSockets and Redis to minimize latency for financial analytics streams."
+    "text": "Engineered real-time data ingestion pipelines for QuantCore.ai, transitioning to WebSockets and Redis caching with sub-50ms latency."
   },
   {
     "date": "2022",
-    "text": "Surpassed 500+ mentored software engineers and learners, conducting structured code reviews and training modules on distributed systems and API design."
+    "text": "Surpassed 500+ mentored software engineers and learners across Nigeria in distributed systems, API architecture, and database design."
   },
   {
     "date": "2020",
-    "text": "Co-authored research on ensemble models for chronic kidney disease classification published in IJAMEC.",
+    "text": "Co-authored research on ensemble models in chronic kidney disease classification published in IJAMEC.",
     "link": {
       "label": "Paper (DOI)",
       "url": "https://doi.org/10.18100/ijamec.792863"

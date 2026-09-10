@@ -1,5 +1,33 @@
 [
   {
+    "id": "dtaa-fssl-thesis",
+    "title": "A Dual-Teacher Adaptive Agreement Strategy for Semi-Supervised Federated Learning in Abdominal Trauma CT Segmentation",
+    "authors": [
+      {"name": "Abdulquadri Adegbiji", "self": true},
+      {"name": "Dr. F. O. Alamu (Supervisor)"}
+    ],
+    "venue": "University of Lagos — M.Sc. Thesis (In View)",
+    "year": 2026,
+    "topics": ["Federated Learning", "Healthcare AI", "Computer Vision"],
+    "note": "M.Sc. Thesis In View",
+    "abstract": "In acute clinical emergency cases such as abdominal trauma, 3D CT segmentation is essential for rapid detection of internal organ lacerations and hemorrhages. However, strict patient privacy regulations (HIPAA, GDPR) prevent centralizing sensitive multi-institutional imaging datasets. This thesis introduces a Dual-Teacher Adaptive Agreement (DTAA) framework under Federated Semi-Supervised Learning (FSSL), enabling decentralized clinical centers with sparse local annotations to collaboratively train robust, generalizable 3D CT segmentation models without transferring raw patient records."
+  },
+  {
+    "id": "fl-healthcare-seminar",
+    "title": "Federated Learning in Healthcare: Privacy-Preserving Collaborative Machine Learning Across Clinical Silos",
+    "authors": [
+      {"name": "Abdulquadri Adegbiji", "self": true},
+      {"name": "Dr. F. O. Alamu (Supervisor)"}
+    ],
+    "venue": "University of Lagos — Postgraduate Seminar (CSC 812)",
+    "year": 2026,
+    "topics": ["Federated Learning", "Healthcare AI", "Privacy"],
+    "slides": "slides/federated_learning_presentation.pptx",
+    "paper": "pubs/federated_learning_flowchart.pdf",
+    "note": "Seminar & Presentation Slides Available",
+    "abstract": "Federated Learning (FL) offers a transformative paradigm for healthcare by enabling distributed clinical institutions to collaboratively train deep learning models on localized private data without transmitting sensitive patient records to a centralized aggregator. This seminar investigates state-of-the-art FL topologies (horizontal, vertical, federated transfer learning), privacy mechanisms (differential privacy, secure multi-party computation), non-IID clinical data heterogeneity, and communication-efficient optimization across healthcare networks."
+  },
+  {
     "id": "ckd-ml-2020",
     "title": "Comparison analysis of decision tree and ensemble models in the classification of chronic kidney diseases",
     "authors": [
@@ -12,6 +40,6 @@
     "topics": ["Machine Learning", "Health Informatics"],
     "paper": "https://doi.org/10.18100/ijamec.792863",
     "bibtex": "bib/ckd-ml-2020.txt",
-    "abstract": "Chronic Kidney Disease (CKD) is a global health threat characterized by the gradual loss of kidney function over time. Early detection is paramount for effective treatment and clinical intervention. In this study, we perform a comparative analysis of various decision tree algorithms (Simple, Medium, and Complex Trees) alongside ensemble learning models (Boosted, Bagged, and RUSBoosted Trees) to evaluate their efficacy in chronic kidney disease diagnosis. Using empirical evaluation in MATLAB, the Bagged ensemble model demonstrated superior predictive classification accuracy, while simple decision trees showed optimal training latency. The findings demonstrate the utility of ensemble learning architectures for robust clinical predictive diagnostics."
+    "abstract": "Chronic Kidney Disease (CKD) is a global health threat characterized by the gradual loss of kidney function over time. Early detection is paramount for effective treatment and clinical intervention. In this study, we perform a comparative analysis of various decision tree algorithms alongside ensemble learning models to evaluate their efficacy in chronic kidney disease diagnosis. Using empirical evaluation in MATLAB, the Bagged ensemble model demonstrated superior predictive classification accuracy, while simple decision trees showed optimal training latency."
   }
 ]
